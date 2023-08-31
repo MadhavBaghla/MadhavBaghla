@@ -16,11 +16,9 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 ### GitHub Statistics
-<br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Madhav's Github Stats">
-
-</br>  
+| <a href="https://github.com/MadhavBaghla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <div align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavBaghla&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
@@ -54,8 +52,6 @@ alt="Github streaks">
 
   
 <h3> </h3>
-
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/MadhavBaghla/github-readme-stats)
 
 <h3> 🎯&nbsp;Goals for the upcoming year </h3>
 
