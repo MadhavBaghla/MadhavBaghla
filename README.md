@@ -96,6 +96,10 @@ me = ReadMe(2023)
    <a href="mailto:madhavbaghla4@gmail.com">
     <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Madhav's Gmail Account" height="30" width="30">
   </a>
+
+  <a href="https://github.com/MadhavBaghla2004">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H3k5o1hr4luxqjzGWsJEKODInCZKG2Q_Fg&usqp=CAU" alt="Madhav's GitHub Account" height="30" width="30">
+  </a>
   
 </p>
   
