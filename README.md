@@ -10,10 +10,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Interested in Data Science and Machine Learning
+
+
+- 🤔 &nbsp;  Interested in Data Science and Machine Learning
 - 🎓 &nbsp; ECE35, COGS9, CSE12, HUM1
 - 💼 &nbsp; Open to Internships
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌍 &nbsp; I can speak English, Hindi and French
 
 ### GitHub Statistics
 
@@ -28,9 +31,10 @@ alt="Github streaks">
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - <img src="https://img.shields.io/badge/Programming%20Languages :-adff2f?style=flat&logoColor=white">&nbsp;
- <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
-  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/-R-00008b?style=flat&logo=R&logoColor=white">
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
+  <a href="https://www.java.com/en/"><img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=openjdk&logoColor=white"></a>
+  <a href="https://www.r-project.org/"> <img src="https://img.shields.io/badge/-R-00008b?style=flat&logo=R&logoColor=white"></a>
+  
   
 - <img src="https://img.shields.io/badge/Database%20:-adff2f?style=flat&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
