@@ -77,7 +77,7 @@ me = ReadMe(2023)
 <p align="center">
 
   <a href="https://www.linkedin.com/in/madhavbaghla">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Madhav's LinkedIn Profile" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhav's LinkedIn Profile" height="30" width="30">
   </a>
 
 
@@ -96,6 +96,15 @@ me = ReadMe(2023)
   <a href="https://github.com/MadhavBaghla2004">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H3k5o1hr4luxqjzGWsJEKODInCZKG2Q_Fg&usqp=CAU" alt="Madhav's GitHub Account" height="30" width="30">
   </a>
-  
+
+   <a href="https://www.hackerrank.com/madhavbaghla2004">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Madhav's Hackerrank Account" height="30" width="30">
+  </a>
+
+   <a href="https://kaggle.com/madhav baghla">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Madhav's Kaggle Account" height="30" width="30">
+  </a>
+
 </p>
+
   
