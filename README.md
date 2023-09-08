@@ -17,7 +17,7 @@
 
 ### GitHub Statistics
 
-| <a href="https://github.com/MadhavBaghla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/MadhavBaghla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div align="left">
@@ -27,28 +27,26 @@ alt="Github streaks">
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  <img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF">
+- <img src="https://img.shields.io/badge/Programming%20Languages :-adff2f?style=flat&logoColor=white">&nbsp;
+ <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
   <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=openjdk&logoColor=white">
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-333333?&style=flate&logo=PyCharm&logoColor=55e22d)
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=1572B6)
+  <img src="https://img.shields.io/badge/-R-00008b?style=flat&logo=R&logoColor=white">
+  
+- <img src="https://img.shields.io/badge/Database%20:-adff2f?style=flat&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-MySQL-66cdaa?style=flat&logo=mysql&logoColor=blue">
+  
+- <img src="https://img.shields.io/badge/Tools And%20Technologies :-adff2f?style=flat&logoColor=white">  &nbsp; &nbsp;
+  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-Markdown-ff0000?style=flat&logo=markdown&logoColor=FFFFFF">
+
+  
+- <img src="https://img.shields.io/badge/IDEs %20:-adff2f?style=flat&logoColor=white">  &nbsp;
+  <img src="http://img.shields.io/badge/-Visual%20Studio%20Code-1e90ff?style=flat&logo=visual-studio-code&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-RStudio-4169e1?style=flat&logo=rstudio&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-PyCharm-ff1493?style=flat&logo=PyCharm&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-IntelliJ -ff69b4?style=flat&logo=intellij-idea&logoColor=FFFFFF">
 
   
 <h3> </h3>
