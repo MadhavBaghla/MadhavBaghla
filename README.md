@@ -28,8 +28,8 @@ alt="Github streaks">
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=117fed)
-  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=c90076)
+  <img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=openjdk&logoColor=white">
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
