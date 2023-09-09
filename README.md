@@ -8,7 +8,7 @@
 </br>  
 
 
-<h3> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp;About Me </h3>
+<h3>  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp;About Me </h3>
 
 
 
@@ -18,7 +18,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - 🌍 &nbsp; I can speak English, Hindi and French
 
-### GitHub Statistics
+<h3><img src="https://media3.giphy.com/media/bmQBu3aSF0DxadphkG/200w.gif?cid=6c09b952n0c3fry15dpl0fc8bchfl03r9e98ldreff5chx6x&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px"/> &nbsp; GitHub Statistics </h3>
 
 | <a href="https://github.com/MadhavBaghla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -28,7 +28,7 @@
 alt="Github streaks">
 </div>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3>  <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="70px" />  &nbsp;Tech Stack </h3>
 
 - <img src="https://img.shields.io/badge/Programming%20Languages :-adff2f?style=flat&logoColor=white">&nbsp;
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
@@ -62,7 +62,7 @@ alt="Github streaks">
 
 
 
-<h3> 🎯&nbsp;Goals for the upcoming year </h3>
+<h3> <img src="https://media3.giphy.com/media/3oz8xD8KOjTwxGG1q0/200w.gif?cid=6c09b95209eb0qcvv6pjeh4ip4x1bitp2aph52md3ay2iy7t&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px" /> &nbsp;Goals for the Upcoming Year </h3>
 
 ```python
 class ReadMe:
@@ -77,13 +77,13 @@ class ReadMe:
 me = ReadMe(2023)
 ```
 
-<h3> 📈 &nbsp; Profile Views:</h3>
+<h3> <img src="https://www.protocol80.com/hubfs/blog-files/Increasing-Traffic-Counter.gif" width="70px" /> &nbsp; Profile Views:</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhavBaghla&label=Profile%20views&color=ff1493&style=for-the-badge" alt="MadhavBaghla" /> </p>
 
-<h3> 📱 &nbsp;Socials:</h3>
+<h3> <img src="https://cdn.dribbble.com/users/891352/screenshots/7105199/media/5238cf20f0301e51fea9cad8912b9ea3.gif" width="50px" /> &nbsp;Socials:</h3>
 
-| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin logo" width="30">](https://www.linkedin.com/in/madhavbaghla) | [<img src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg" alt="X logo" width="30">](https://twitter.com/OnlyMB04) | [<img src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="discord logo" width="30">](https://discord.com/users/735389282184986744)| [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="gmail logo" width="30">](mailto:madhavbaghla4@gmail.com) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H3k5o1hr4luxqjzGWsJEKODInCZKG2Q_Fg&usqp=CAU" alt="github logo" width="30">](https://github.com/MadhavBaghla2004) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stack logo" width="24">](https://www.hackerrank.com/madhavbaghla2004)| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stack logo" width="24">](https://kaggle.com/madhavbaghla)
+| [<img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="linkedin logo" width="30">](https://www.linkedin.com/in/madhavbaghla) | [<img src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg" alt="X logo" width="30">](https://twitter.com/OnlyMB04) | [<img src="https://cdn.dribbble.com/users/5242374/screenshots/16641455/media/0a74ea6b1d505b316ced8be139175fc3.gif" alt="discord logo" width="30">](https://discord.com/users/735389282184986744)| [<img src="https://cdn.dribbble.com/users/4874/screenshots/3074660/gmaildribbble.gif" alt="gmail logo" width="30">](mailto:madhavbaghla4@gmail.com) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H3k5o1hr4luxqjzGWsJEKODInCZKG2Q_Fg&usqp=CAU" alt="github logo" width="30">](https://github.com/MadhavBaghla2004) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stack logo" width="24">](https://www.hackerrank.com/madhavbaghla2004)| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stack logo" width="24">](https://kaggle.com/madhavbaghla)
 |---|---|---|---|---|---|---|
 
 
