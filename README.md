@@ -42,7 +42,7 @@ alt="Github streaks">
   
 - <img src="https://img.shields.io/badge/Tools And%20Technologies :-adff2f?style=flat&logoColor=white">  &nbsp; &nbsp;
   <a href="https://git-scm.com"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></a>
-  <a href="https://github.com"><<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
+  <a href="https://github.com"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
   <a href="https://www.markdownguide.org"><img src="http://img.shields.io/badge/-Markdown-ff0000?style=flat&logo=markdown&logoColor=FFFFFF"></a>
 
   
