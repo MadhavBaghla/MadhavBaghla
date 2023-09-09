@@ -83,37 +83,10 @@ me = ReadMe(2023)
 
 <h3> 📱 &nbsp;Socials:</h3>
 
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/madhavbaghla">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Madhav's LinkedIn Profile" height="30" width="30">
-  </a>
+| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin logo" width="30">](https://www.linkedin.com/in/madhavbaghla) | [<img src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg" alt="X logo" width="30">](https://twitter.com/OnlyMB04) | [<img src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="discord logo" width="30">](https://discord.com/users/735389282184986744)| [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="gmail logo" width="30">](mailto:madhavbaghla4@gmail.com) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H3k5o1hr4luxqjzGWsJEKODInCZKG2Q_Fg&usqp=CAU" alt="github logo" width="30">](https://github.com/MadhavBaghla2004) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stack logo" width="24">](https://www.hackerrank.com/madhavbaghla2004)| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stack logo" width="24">](https://kaggle.com/madhavbaghla)
+|---|---|---|---|---|---|---|
 
 
-  <a href="https://twitter.com/OnlyMB04">
-    <img src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg" alt="Madhav's Twitter Profile" height="30" width="30">
-  </a>
 
-   <a href="https://discord.com/users/735389282184986744">
-    <img src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="Madhav's Discord Profile" height="30" width="30">
-  </a>
-
-   <a href="mailto:madhavbaghla4@gmail.com">
-    <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Madhav's Gmail Account" height="30" width="30">
-  </a>
-
-  <a href="https://github.com/MadhavBaghla2004">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H3k5o1hr4luxqjzGWsJEKODInCZKG2Q_Fg&usqp=CAU" alt="Madhav's GitHub Account" height="30" width="30">
-  </a>
-
-   <a href="https://www.hackerrank.com/madhavbaghla2004">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Madhav's Hackerrank Account" height="30" width="30">
-  </a>
-
-   <a href="https://kaggle.com/madhav baghla">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Madhav's Kaggle Account" height="30" width="30">
-  </a>
-
-</p>
 
   
