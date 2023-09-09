@@ -79,7 +79,7 @@ me = ReadMe(2023)
 
 <h3> 📈 &nbsp; Profile Views:</h3>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhavBaghla&label=Profile%20views&color=00ffff&style=flat" alt="MadhavBaghla" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhavBaghla&label=Profile%20views&color=ff1493&style=for-the-badge" alt="MadhavBaghla" /> </p>
 
 <h3> 📱 &nbsp;Socials:</h3>
 
