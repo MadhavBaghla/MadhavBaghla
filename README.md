@@ -37,20 +37,20 @@ alt="Github streaks">
   
   
 - <img src="https://img.shields.io/badge/Database%20:-adff2f?style=flat&logoColor=white"> &nbsp;
-  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/-MySQL-66cdaa?style=flat&logo=mysql&logoColor=blue">
+  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"></a>
+  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-66cdaa?style=flat&logo=mysql&logoColor=blue"></a>
   
 - <img src="https://img.shields.io/badge/Tools And%20Technologies :-adff2f?style=flat&logoColor=white">  &nbsp; &nbsp;
-  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-  <img src="http://img.shields.io/badge/-Markdown-ff0000?style=flat&logo=markdown&logoColor=FFFFFF">
+  <a href="https://git-scm.com"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></a>
+  <a href="https://github.com"><<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
+  <a href="https://www.markdownguide.org"><img src="http://img.shields.io/badge/-Markdown-ff0000?style=flat&logo=markdown&logoColor=FFFFFF"></a>
 
   
 - <img src="https://img.shields.io/badge/IDEs %20:-adff2f?style=flat&logoColor=white">  &nbsp;
-  <img src="http://img.shields.io/badge/-Visual%20Studio%20Code-1e90ff?style=flat&logo=visual-studio-code&logoColor=FFFFFF">
-  <img src="http://img.shields.io/badge/-RStudio-4169e1?style=flat&logo=rstudio&logoColor=FFFFFF">
-  <img src="http://img.shields.io/badge/-PyCharm-ff1493?style=flat&logo=PyCharm&logoColor=FFFFFF">
-  <img src="http://img.shields.io/badge/-IntelliJ -ff69b4?style=flat&logo=intellij-idea&logoColor=FFFFFF">
+   <a href="https://code.visualstudio.com"><img src="http://img.shields.io/badge/-Visual%20Studio%20Code-1e90ff?style=flat&logo=visual-studio-code&logoColor=FFFFFF"></a>
+   <a href="https://posit.co/products/open-source/rstudio/"><img src="http://img.shields.io/badge/-RStudio-4169e1?style=flat&logo=rstudio&logoColor=FFFFFF"></a>
+   <a href="https://www.jetbrains.com/pycharm/"><img src="http://img.shields.io/badge/-PyCharm-ff1493?style=flat&logo=PyCharm&logoColor=FFFFFF"></a>
+   <a href="https://www.jetbrains.com/idea/"><img src="http://img.shields.io/badge/-IntelliJ -ff69b4?style=flat&logo=intellij-idea&logoColor=FFFFFF"></a>
 
   
 <h3> </h3>
