@@ -52,8 +52,15 @@ alt="Github streaks">
    <a href="https://www.jetbrains.com/pycharm/"><img src="http://img.shields.io/badge/-PyCharm-ff1493?style=flat&logo=PyCharm&logoColor=FFFFFF"></a>
    <a href="https://www.jetbrains.com/idea/"><img src="http://img.shields.io/badge/-IntelliJ -ff69b4?style=flat&logo=intellij-idea&logoColor=FFFFFF"></a>
 
+- <img src="https://img.shields.io/badge/Data Analysis %20 And Visualisation Tools :-adff2f?style=flat&logoColor=white">  &nbsp;
+  <a href="https://powerbi.microsoft.com/en-in/"><img src="https://img.shields.io/badge/Power_BI-9932cc?style=flat&logo=powerbi&logoColor=white"></a>
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"></a>
+
   
 <h3> </h3>
+
+
+
 
 <h3> 🎯&nbsp;Goals for the upcoming year </h3>
 
