@@ -8,7 +8,7 @@
 </br>  
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp;About Me </h3>
 
 
 
