@@ -14,9 +14,9 @@
 
 - 🎓 &nbsp;  Studying Computer Engineering @ UC San Diego
 - 🤔 &nbsp;  Interested in Data Science and Machine Learning
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- 💼 &nbsp; Open to Internships
-- 🌍 &nbsp; I can speak English, Hindi and French
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence
+- 🌍 &nbsp; Polyglot- I know 5 languages
+- 🥇 &nbsp; Soccer and Basketball enjoyer
 
 <h3><img src="https://media3.giphy.com/media/bmQBu3aSF0DxadphkG/200w.gif?cid=6c09b952n0c3fry15dpl0fc8bchfl03r9e98ldreff5chx6x&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px"/> &nbsp; GitHub Statistics </h3>
 
@@ -68,10 +68,12 @@ alt="Github streaks">
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhavBaghla&label=Profile%20views&color=ff1493&style=for-the-badge" alt="View Count" /> </p>
 
-<h3> <img src="https://cdn.dribbble.com/users/891352/screenshots/7105199/media/5238cf20f0301e51fea9cad8912b9ea3.gif" width="50px" /> &nbsp;Socials:</h3>
+<h3> Socials:</h3>
 
-| [<img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="linkedin logo" width="30">](https://www.linkedin.com/in/madhavbaghla) | [<img src="https://media2.giphy.com/media/KDGLRKwIMVXV5XLieP/200w.gif?cid=6c09b9526jb7xzccujs7k5icntvr2dko4nnzefrbuovdgdp8&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="X logo" width="30">](https://twitter.com/OnlyMB04) | [<img src="https://cdn.dribbble.com/users/5242374/screenshots/16641455/media/0a74ea6b1d505b316ced8be139175fc3.gif" alt="discord logo" width="30">](https://discord.com/users/735389282184986744)| [<img src="https://cdn.dribbble.com/users/4874/screenshots/3074660/gmaildribbble.gif" alt="gmail logo" width="30">](mailto:madhavbaghla4@gmail.com) | [<img src="https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif" alt="github logo" width="30">](https://github.com/MadhavBaghla2004) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank logo" width="40">](https://www.hackerrank.com/madhavbaghla2004)| [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="kaggle logo" width="40">](https://kaggle.com/madhavbaghla)
-|---|---|---|---|---|---|---|
+| [<img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="linkedin logo" width="30">](https://www.linkedin.com/in/madhavbaghla) | [<img src="https://media2.giphy.com/media/KDGLRKwIMVXV5XLieP/200w.gif?cid=6c09b9526jb7xzccujs7k5icntvr2dko4nnzefrbuovdgdp8&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="X logo" width="30">](https://twitter.com/mad__have) | [<img src="https://cdn.dribbble.com/users/5242374/screenshots/16641455/media/0a74ea6b1d505b316ced8be139175fc3.gif" alt="discord logo" width="30">](https://discord.com/users/735389282184986744)| [<img src="https://cdn.dribbble.com/users/4874/screenshots/3074660/gmaildribbble.gif" alt="gmail logo" width="30">](mailto:madhavbaghla4@gmail.com) | [<img src="https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif" alt="github logo" width="30">](https://github.com/MadhavBaghla) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank logo" width="40">](https://www.hackerrank.com/madhavbaghla2004)| [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="kaggle logo" width="40">](https://kaggle.com/madhavbaghla)| [<img src="https://miro.medium.com/v2/resize:fit:960/1*H7hinsNdS_kAcf6kypYKuA.gif" alt="reddit logo" width="40">](https://www.reddit.com/user/Electrical_Fun_536)|[<img src="https://i.pinimg.com/originals/27/6f/27/276f273d11f8b9dbc0a9c55bb38ea8c6.gif" alt="spotify logo" width="40">](https://open.spotify.com/user/4lu7abt83n70dgimfje513vul)|[<img src="https://indeed.design/static/83ab86812786bc2368a3e95258b2fa66/06186/Indeed-wordmark.webp" alt="indeed logo" width="40">](https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend)|[<img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/159/2022/05/New-Handshake-resource-for-website.png" alt="handshake logo" width="40">](https://app.joinhandshake.com/stu/users/40444961)|
+|---|---|---|---|---|---|---|---|---|---|---|
+
+
 
 
 
