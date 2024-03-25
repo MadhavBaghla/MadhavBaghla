@@ -20,20 +20,24 @@
 
 <h3><img src="https://media3.giphy.com/media/bmQBu3aSF0DxadphkG/200w.gif?cid=6c09b952n0c3fry15dpl0fc8bchfl03r9e98ldreff5chx6x&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px"/> &nbsp; GitHub Statistics </h3>
 
-| <a href="https://github.com/MadhavBaghla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&theme=blue_navy" alt="Madhav's github stats" /></a> | <a href="https://github.com/MadhavBaghla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla&layout=compact&theme=synthwave&hide_border=true" /></a> | <img src="https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409" width="200px"> |
-| ------------- | ------------- | ------------- | 
+<a href="https://github.com/MadhavBaghla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MadhavBaghla&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&theme=blue_navy" alt="Madhav's github stats" /></a> 
 
-<div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavBaghla&theme=codeSTACKr&hide_border=true&stroke=0000&background=0D1117"
-alt="Github streaks">
-</div>
 
-<h3>  <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="70px" />  &nbsp;Tech Stack </h3>
+
+<a href="https://github.com/MadhavBaghla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavBaghla&layout=compact&theme=synthwave&hide_border=true" /></a>| <img src="https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409" width="350px"> |
+| ------------- | ------------- |
+
+
+
+<h3>  <img src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif" width="50px" />  &nbsp;Tech Stack: </h3>
+
+
 
 - <img src="https://img.shields.io/badge/Programming%20Languages :-adff2f?style=flat&logoColor=white">&nbsp;
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
   <a href="https://www.java.com/en/"><img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=openjdk&logoColor=white"></a>
   <a href="https://www.r-project.org/"> <img src="https://img.shields.io/badge/-R-00008b?style=flat&logo=R&logoColor=white"></a>
+   <a href="https://www.w3schools.com/c/c_intro.php?external_link=true"> <img src="https://img.shields.io/badge/-C-C71585?style=flat&logo=C&logoColor=white"></a>
   
   
 - <img src="https://img.shields.io/badge/Database%20:-adff2f?style=flat&logoColor=white"> &nbsp;
@@ -44,6 +48,8 @@ alt="Github streaks">
   <a href="https://git-scm.com"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></a>
   <a href="https://github.com"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
   <a href="https://www.markdownguide.org"><img src="http://img.shields.io/badge/-Markdown-ff0000?style=flat&logo=markdown&logoColor=FFFFFF"></a>
+  <a href="https://en.wikipedia.org/wiki/Shell_script"><img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white"></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-R2023a-BLUE.svg"></a>
 
   
 - <img src="https://img.shields.io/badge/IDEs %20:-adff2f?style=flat&logoColor=white">  &nbsp;
@@ -56,8 +62,6 @@ alt="Github streaks">
   <a href="https://powerbi.microsoft.com/en-in/"><img src="https://img.shields.io/badge/Power_BI-9932cc?style=flat&logo=powerbi&logoColor=white"></a>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"></a>
 
-  
-<h3> </h3>
 
 
 <h3><img src="https://assets-v2.lottiefiles.com/a/f62481a4-1172-11ee-aa7c-232f008dfb14/Sl4fTVnhQL.gif" width="40px"> &nbsp; Github Contributions in the Last Year: </h3>
