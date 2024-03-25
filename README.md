@@ -60,22 +60,9 @@ alt="Github streaks">
 <h3> </h3>
 
 
+<h3><img src="https://assets-v2.lottiefiles.com/a/f62481a4-1172-11ee-aa7c-232f008dfb14/Sl4fTVnhQL.gif" width="40px"> &nbsp; Github Contributions in the Last Year: </h3>
 
-
-<h3> <img src="https://media3.giphy.com/media/3oz8xD8KOjTwxGG1q0/200w.gif?cid=6c09b95209eb0qcvv6pjeh4ip4x1bitp2aph52md3ay2iy7t&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px" /> &nbsp;Goals for the Upcoming Year </h3>
-
-```nginx
-class ReadMe:
-    def __init__(self, username="MadhavBaghla", year=2023):
-        self.username = username
-        self.name = 'Madhav Baghla'
-        self.goals = {
-            '1': 'Be consistent at school',
-            '2': 'Hone Data Science skills',
-            '3': 'Build projects'
-        }
-me = ReadMe(2023)
-```
+![Snake animation](https://raw.githubusercontent.com/MadhavBaghla/MadhavBaghla/output/github-contribution-grid-snake.svg)
 
 <h3> <img src="https://www.protocol80.com/hubfs/blog-files/Increasing-Traffic-Counter.gif" width="70px" /> &nbsp; Profile Views:</h3>
 
